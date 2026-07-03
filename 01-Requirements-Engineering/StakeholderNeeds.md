@@ -20,7 +20,7 @@ Need 6: provide the CAD drawing of the fuel tank system connections.
 Need 7: What material to be used to manufacture the fuel tank.
 Need 8:  The fuel tank should not wiegh more that 20 tons
 
-## Airline Operator
+## Stakeholder 5: Airline Operator
 
 Need 9: The body of the aircraft should be painted with White and red paterns for easy recognition and smooth airflow..
-Nee 10:  Provide the schematcic structure and connections of the fuel system to the aircraft.
+Need 10:  Provide the schematcic structure and connections of the fuel system to the aircraft.
