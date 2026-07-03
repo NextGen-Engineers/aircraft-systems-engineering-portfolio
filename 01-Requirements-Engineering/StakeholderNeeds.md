@@ -10,7 +10,7 @@ Need 2: The system should indicate airseepd on the dashboard during flights.
 Need 3: The system should ensure proper function of the MCAS system for safe flights.
 Need 4:  Provide every repair documentation done on the B737 aircrfat.
 
-## Stakeholder 3; Maintenace Technician
+## Stakeholder 3: Maintenace Technician
 
 Need 5: Provide technical drawing of the fuel usage indicator software.
 Need 6: provide the CAD drawing of the fuel tank system connections.
