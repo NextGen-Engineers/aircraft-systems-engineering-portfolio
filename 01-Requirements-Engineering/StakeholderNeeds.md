@@ -7,20 +7,20 @@ Need 2: The system should indicate airseepd on the dashboard during flights.
 
 ## Stakeholder 2: Regulator
 
-Need 3: The system should ensure proper function of the MCAS system for safe flights.
-Need 4:  Provide every repair documentation done on the B737 aircrfat.
+Need 3: 
+Need 4:  The regulator needs assurance that the fuel management system supports safe aircraft operation.
 
 ## Stakeholder 3: Maintenace Technician
 
-Need 5: Provide technical drawing of the fuel usage indicator software.
-Need 6: provide the CAD drawing of the fuel tank system connections.
+Need 5: The maintenance technician needs to quickly identify failed fuel pumps or faulty sensors.
+Need 6: 
 
 ## Stakeholder4: System Engineer
 
-Need 7: What material to be used to manufacture the fuel tank.
+Need 7:  The systems engineer needs clearly defined requirements to design and verify the software.
 Need 8:  The fuel tank should not wiegh more that 20 tons
 
 ## Stakeholder 5: Airline Operator
 
-Need 9: The body of the aircraft should be painted with White and red paterns for easy recognition and smooth airflow..
-Need 10:  Provide the schematcic structure and connections of the fuel system to the aircraft.
+Need 9: The airline operator needs reliable fuel management to reduce delays and improve operational efficiency.
+Need 10: 
