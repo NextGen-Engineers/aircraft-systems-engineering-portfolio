@@ -80,6 +80,6 @@ To enable the flight crew and operator to make informed operational decisions th
 
 Verification Method:
 
-Test - Verify that the system calculates and displays the required fuel usage information accurately under representative operating conditions.
+Test - Verify that the system calculates and displays the required fuel usage information accurately under typical operating conditions.
 
 ---
