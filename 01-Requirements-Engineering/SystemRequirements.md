@@ -54,6 +54,6 @@ To support efficient repair and maintenance activities by providing clear diagno
 
 Verification Method:
 
-Test - Review the maintenance interface or documentation to confirm the required diagnostic information is available, and verify through testing that the correct information is displayed when faults are introduced.
+Inspection and Test - Review the maintenance interface or documentation to confirm the required diagnostic information is available, and verify through testing that the correct information is displayed when faults are introduced.
 
 ---
