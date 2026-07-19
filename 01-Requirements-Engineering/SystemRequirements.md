@@ -27,6 +27,7 @@ To ensure the flight crew is promptly informed of a critically low fuel conditio
 
 Verification Method:
 Test: Simulate fuel levels decreasing below the critical threshold and verify that both the visual and audible alerts are generated as specified.
+
 ---
 
 ### SYS-003
@@ -50,4 +51,5 @@ To support efficient repair and maintenance activities by providing clear diagno
 
 Verification Method:
 Test: Review the maintenance interface or documentation to confirm the required diagnostic information is available, and verify through testing that the correct information is displayed when faults are introduced.
+
 ---
