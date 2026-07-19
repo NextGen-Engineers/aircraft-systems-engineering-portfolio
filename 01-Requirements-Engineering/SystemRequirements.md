@@ -28,3 +28,26 @@ To ensure the flight crew is promptly informed of a critically low fuel conditio
 Verification Method:
 Test: Simulate fuel levels decreasing below the critical threshold and verify that both the visual and audible alerts are generated as specified.
 ...
+
+### SYS-003
+Requirement:
+The system shall detect, record, and report fuel management system faults to support fault diagnosis.
+
+Rationale:
+To enable maintenance personnel to quickly identify system faults, reducing troubleshooting time and improving system availability.
+
+Verification Method:
+Test: Introduce typical system faults and verify that the system correctly detects, records, and reports each fault.
+
+---
+
+### SYS-004
+Requirement:
+The system shall provide visual and audible alerts to the flight crew when the available fuel quantity falls below the predefined critical fuel threshold.
+
+Rationale:
+To ensure the flight crew is promptly informed of a critically low fuel condition, enabling timely corrective action and enhancing flight safety.
+
+Verification Method:
+Test: Simulate fuel levels decreasing below the critical threshold and verify that both the visual and audible alerts are generated as specified.
+...
