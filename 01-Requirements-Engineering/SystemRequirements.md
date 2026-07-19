@@ -14,6 +14,7 @@ Rationale:
 To provide the flight crew with accurate and continuous awareness of the aircraft's available fuel for safe flight operation and descision making.
 
 Verification Method:
+
 Test: Verify that the system displays the total usable fuel quantity contnuosly during simulated and actual flight conditions, and that the displayed value matches the measured fuel quantity available to the flight crew.
 
 ---
