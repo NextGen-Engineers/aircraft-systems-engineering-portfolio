@@ -57,3 +57,29 @@ Verification Method:
 Inspection and Test - Review the maintenance interface or documentation to confirm the required diagnostic information is available, and verify through testing that the correct information is displayed when faults are introduced.
 
 ---
+
+### SYS-005
+Requirement:
+The system shall monitor and manage the aircraft fuel system to ensure reliable operation throughout all phases of flight.
+
+Rationale:
+To support safe and efficient aircraft operations by ensuring the fuel management system operates reliably under normal operating conditions.
+
+Verification Method:
+
+Test and Analysis - Verify through functional testing and reliability analysis that the system performs its intended fuel management functions correctly under specified operating conditions.
+
+---
+
+### SYS-006
+Requirement:
+The system shall provide fuel usage information, including current fuel consumption and estimated remaining fuel, to support flight planning and operational decision making.
+
+Rationale:
+To enable the flight crew and operator to make informed operational decisions that improve fuel efficiency and flight safety.
+
+Verification Method:
+
+Test - Verify that the system calculates and displays the required fuel usage information accurately under representative operating conditions.
+
+---
