@@ -8,7 +8,7 @@ The following system requirements define the expected behavior of the Commercial
 
 ### SYS-001
 Requirement:
-The system shall continuously display the total usable fuel quantity available to the flight crew throughout all phases of the flight.
+The system shall display the total usable fuel quantity whenever aircraft electrical power is avialable.
 
 Rationale:
 To provide the flight crew with accurate and continuous awareness of the aircraft's available fuel for safe flight operation and decision making.
@@ -60,7 +60,7 @@ Inspection and Test - Review the maintenance interface or documentation to confi
 
 ### SYS-005
 Requirement:
-The system shall monitor and manage the aircraft fuel system to ensure reliable operation throughout all phases of flight.
+The system shall monitor fuel quantity to ensure reliable operation throughout all phases of flight.
 
 Rationale:
 To support safe and efficient aircraft operations by ensuring the fuel management system operates reliably under normal operating conditions.
@@ -86,7 +86,7 @@ Test - Verify that the system calculates and displays the required fuel usage in
 
 ### SYS-007
 Requirement:
-The system shall implement all fuel management functions in accordance with documented, complete, and verifiable system requirements.
+The system shall implement all fuel management functions traceable to approved system requirements.
 
 Rationale:
 To ensure the software can be developed consistently and that all required functionality is traceable to approved system requirements.
@@ -115,7 +115,7 @@ Requirement:
 The system shall operate in accordance with applicable aircraft safety requirements under all specified operating conditions.
 
 Rationale:
-To ensure the fuel management system supports the safe operation of the aircraft satisfies applicable safety requirements.
+To ensure the fuel management system supports the safe operation of the aircraft and satisfies applicable safety requirements.
 
 Verification Method:
 
