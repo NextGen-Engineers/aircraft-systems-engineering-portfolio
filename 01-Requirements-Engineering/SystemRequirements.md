@@ -83,3 +83,16 @@ Verification Method:
 Test - Verify that the system calculates and displays the required fuel usage information accurately under typical operating conditions.
 
 ---
+
+### SYS-007
+Requirement:
+The system shall implement all fuel managenet functions in accordance with documented, complete, and verifiable system requirements.
+
+Rationale:
+To ensure the software can be developed consistently and that all required functionality is traceable to approved system requirements.
+
+Verification Method:
+
+Inspection - Review the system requirements and requirements traceability to verify that all implemented functions are derived from documented and verifiable requirements.
+
+---
