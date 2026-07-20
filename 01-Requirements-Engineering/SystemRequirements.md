@@ -106,6 +106,33 @@ To enable comprehensive testing and validation of system behavior and to demonst
 
 Verification Method:
 
-Test- Execute functional test cases covering normal operations and specified fault conditions, and verify that the observed system behavior matches the documented expected behavior.
+Test - Execute functional test cases covering normal operations and specified fault conditions, and verify that the observed system behavior matches the documented expected behavior.
 
 ---
+
+### SYS-009
+Requirement:
+The system shall operate in accordance with applicable aircraft safety requirements under all specified operating conditions.
+
+Rationale:
+To ensure the fuel management system supports the safe operation of the aircraft satisfies applicable safety requiremnets.
+
+Verification Method:
+
+Test and Analysis - Verify through functional testing and safety analysis that the system meets all applicable safety requirements under specified operating conditions.
+
+---
+
+### SYS-010
+Requirement:
+The system shall provide documentation demonstrating compliance with all applicable fuel management system safety requirements.
+
+Rationale:
+To provide objective evidence that the system complies with applicable safety requirements and supports the certification process.
+
+Verification Method:
+
+Inspection - Review the compliance documentation to verify that it demonstrates conformance with all applicable safety requirements.
+
+---
+
