@@ -96,3 +96,16 @@ Verification Method:
 Inspection - Review the system requirements and requirements traceability to verify that all implemented functions are derived from documented and verifiable requirements.
 
 ---
+
+### SYS-008
+Requirement:
+The system shall exhibit defined and deterministic behavior for all normal operating conditions and specified fault conditions.
+
+Rationale:
+To enable comprehensive testing and validation of system behavior and to demonstrate that the system performs as intended.
+
+Verification Method:
+
+Test- Execute functional test cases covering normal operations and specified fault conditions, and verify that the observed system behavior matches the documented expected behavior.
+
+---
