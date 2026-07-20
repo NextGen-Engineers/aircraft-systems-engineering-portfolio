@@ -8,14 +8,14 @@ The following system requirements define the expected behavior of the Commercial
 
 ### SYS-001
 Requirement:
-The system shall contniously display the total usable fuel quantity available to the flight crew throughout all phases of the flight.
+The system shall continuously display the total usable fuel quantity available to the flight crew throughout all phases of the flight.
 
 Rationale:
-To provide the flight crew with accurate and continuous awareness of the aircraft's available fuel for safe flight operation and descision making.
+To provide the flight crew with accurate and continuous awareness of the aircraft's available fuel for safe flight operation and decision making.
 
 Verification Method:
 
-Test - Verify that the system displays the total usable fuel quantity contnuosly during simulated and actual flight conditions, and that the displayed value matches the measured fuel quantity available to the flight crew.
+Test - Verify that the system displays the total usable fuel quantity continuously during simulated and actual flight conditions, and that the displayed value matches the measured fuel quantity available to the flight crew.
 
 ---
 
@@ -86,7 +86,7 @@ Test - Verify that the system calculates and displays the required fuel usage in
 
 ### SYS-007
 Requirement:
-The system shall implement all fuel managenet functions in accordance with documented, complete, and verifiable system requirements.
+The system shall implement all fuel management functions in accordance with documented, complete, and verifiable system requirements.
 
 Rationale:
 To ensure the software can be developed consistently and that all required functionality is traceable to approved system requirements.
@@ -115,7 +115,7 @@ Requirement:
 The system shall operate in accordance with applicable aircraft safety requirements under all specified operating conditions.
 
 Rationale:
-To ensure the fuel management system supports the safe operation of the aircraft satisfies applicable safety requiremnets.
+To ensure the fuel management system supports the safe operation of the aircraft satisfies applicable safety requirements.
 
 Verification Method:
 
